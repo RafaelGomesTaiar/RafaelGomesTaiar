@@ -6,4 +6,4 @@
 🌱 Sempre aprimorando lógica de programação, boas práticas de código e banco de dados<br/>
 📈 Entusiasta de tecnologia, investimentos e finanças pessoais<br/>
 
-[![Rafael's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelGomesTaiar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RafaelGomesTaiar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
